@@ -1,0 +1,12 @@
+{
+    "things": [
+        {
+            "id": 0,
+            "name": "Testgrej med id 0"
+        },
+        {
+            "id": 1,
+            "name": "Annan grej"
+        }
+    ]
+}
